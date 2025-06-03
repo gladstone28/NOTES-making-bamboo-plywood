@@ -71,3 +71,5 @@ For indoor use, PVA glue is fine. For moisture resistance, use UF resin.
 Thickness and hardness depend on the number of layers and pressure applied.
 
 Would you like a diagram or a printable PDF of this method?
+
+![](./plywood-making-graphic-resized.jpg)
